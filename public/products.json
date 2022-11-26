@@ -1,0 +1,99 @@
+[
+  {
+    "proId": 1,
+    "categoryName": "Omega Watch",
+    "name": "Omega Genevewatch",
+    "img": "https://i.ibb.co/dBfDhp7/Omega-Genevewatch.webp",
+    "location": "Nobinogor,Savar",
+    "originalPrice": 9990,
+    "resalePrice": 8990,
+    "usedYear": 1,
+    "timePosted": "December 17, 2022",
+    "sellerName": "Amran Hosen"
+  },
+  {
+    "proId": 1,
+    "categoryName": "Omega Watch",
+    "name": "Omega Bumperwatch",
+    "img": "https://i.ibb.co/Vg3BYLs/Omega-Bumperwatch.webp",
+    "location": "Madaripur,Dhaka",
+    "originalPrice": 9890,
+    "resalePrice": 9200,
+    "usedYear": 1.5,
+    "timePosted": "October 8, 2022",
+    "sellerName": "Jamal Ahmed"
+  },
+  {
+    "proId": 2,
+    "categoryName": "Timex Watch",
+    "name": "Timex Electricwatch",
+    "img": "https://i.ibb.co/DGtbgTM/Timex-Electricwatch.webp",
+    "location": "Mohammodpur,Dhaka",
+    "originalPrice": 8900,
+    "resalePrice": 7500,
+    "usedYear": 1.8,
+    "timePosted": "November 17, 2022",
+    "sellerName": "Hashem Ali"
+  },
+  {
+    "proId": 2,
+    "categoryName": "Timex Watch",
+    "name": "Timex Automaticwatch",
+    "img": "https://i.ibb.co/f1mp1r5/Timex-Automaticwatch.webp",
+    "location": "Madaripur,Dhaka",
+    "originalPrice": 7900,
+    "resalePrice": 6400,
+    "usedYear": 1,
+    "timePosted": "October 8, 2022",
+    "sellerName": "Hasan"
+  },
+  {
+    "proId": 3,
+    "categoryName": "Elgin Watch",
+    "name": "Elgin Trenchwatch",
+    "img": "https://i.ibb.co/YN3fGhm/Elgin-Trenchwatch.webp",
+    "location": "Danmondi, Dhaka",
+    "originalPrice": 5000,
+    "resalePrice": 4000,
+    "usedYear": 1.6,
+    "timePosted": "August 10, 2022",
+    "sellerName": "Sakib"
+  },
+  {
+    "proId": 3,
+    "categoryName": "Elgin Watch",
+    "name": "Elgin Raymondwatch",
+    "img": "https://i.ibb.co/rFCJXnW/Elgin-Raymondwatch.webp",
+    "location": "Shahbag, Dhaka",
+    "originalPrice": 5999,
+    "resalePrice": 4999,
+    "usedYear": 2,
+    "timePosted": "September 19, 2022",
+    "sellerName": "Siddikur Rahman"
+  },
+  {
+    "proId": 4,
+    "categoryName": "Hamilton Watch",
+    "name": "Hamilton Scootwatch",
+    "img": "https://i.ibb.co/C65T4Bt/Hamilton-Scootwatch.webp",
+    "location": "Uttor, Badda",
+    "originalPrice": 6850,
+    "resalePrice": 5850,
+    "usedYear": 1.4,
+    "timePosted": "October 28, 2022",
+    "sellerName": "Rasel Rahman"
+  },
+  {
+    "proId": 4,
+    "categoryName": "Hamilton Watch",
+    "name": "Hamilton Wristwatch",
+    "img": "https://i.ibb.co/qsm9Z97/Hamilton-Wristwatch.webp",
+    "location": "Bhola, Barisal",
+    "originalPrice": 4700,
+    "resalePrice": 3700,
+    "usedYear": 1.1,
+    "timePosted": "July 8, 2022",
+    "sellerName": "Rayhan Mashud"
+  }
+  
+]
