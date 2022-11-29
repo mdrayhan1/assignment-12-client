@@ -5,7 +5,7 @@ const DifferentBrands = () => {
     const [brands, setBrands] = useState([]);
 
     useEffect(() => {
-        fetch("http://localhost:5000/categoryData")
+        fetch("https://discover-watches-server.vercel.app/categoryData")
             .then((res) => res.json())
             .then((data) => setBrands(data));
     }, []);
