@@ -6,6 +6,7 @@ import EachWatches from "../../Pages/Home/EachWatches/EachWatches";
 import Home from "../../Pages/Home/Home/Home";
 import Login from "../../Pages/Login/Login";
 import SignUp from "../../Pages/SignUp/SignUp";
+import Private from "../private/Private";
 
 
 export const router = createBrowserRouter([
@@ -41,7 +42,7 @@ export const router = createBrowserRouter([
                         `https://discover-watches-server.vercel.app/products/${params.id}`
                     );
                 },
-                element: <EachWatches></EachWatches>
+                element: <Private><EachWatches></EachWatches></Private>
 
 
 

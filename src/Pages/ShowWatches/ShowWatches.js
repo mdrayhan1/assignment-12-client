@@ -16,6 +16,7 @@ const ShowWatches = ({brand}) => {
             <h2>Posted Time: {timePosted}</h2>
             <h2>Seller Name: {sellerName}</h2>
         </div>
+        <button className="btn btn-outline btn-accent">Book Now</button>
     </div>
     );
 };
